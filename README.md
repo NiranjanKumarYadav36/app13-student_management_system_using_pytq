@@ -24,7 +24,7 @@ The Student Management System is a simple application built using PyQt6 for the 
 
 **1. Clone the Repository:**
 
-git clone
+`git clone https://github.com/NiranjanKumarYadav36/app13-student_management_system_using_pytq.git`
 
 **2. Install Dependencies:**
 
